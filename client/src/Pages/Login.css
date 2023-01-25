@@ -1,0 +1,25 @@
+.inputLogin{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 0 37%;
+}
+
+.loginInputField{
+    border: 1px solid greenyellow;
+    padding: 7px;
+}
+
+.btn-submit{
+    border:1px solid green;
+    padding: 7px;
+    background-color: aqua;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: 200;
+    padding-top: 10%;
+}
